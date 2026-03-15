@@ -408,3 +408,50 @@
         }
     ]
 }
+{
+  "production": [
+    {
+      "dinoType": "Blueprint'/ArkDescended/Dinos/Dodo/DescendedDodo_Character_BP.DescendedDodo_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 60,
+          "items": [
+            "Blueprint'/ArkDescended/Items/DescendedIngot/PrimalItemResource_DescendedIngot.PrimalItemResource_DescendedIngot'",
+            "Blueprint'/ArkDescended/Items/Essence/PrimalItemResource_ExcellentEssence.PrimalItemResource_ExcellentEssence'",
+            "Blueprint'/ArkDescended/Items/BionicEssence/Gigant/PrimalItemResource_BioniceGigantEssence.PrimalItemResource_BioniceGigantEssence'",
+            "Blueprint'/ArkDescended/Items/BionicEssence/Quetz/PrimalItemResource_BioniceQuetzEssence.PrimalItemResource_BioniceQuetzEssence'",
+            "Blueprint'/ArkDescended/Items/BionicEssence/Rex/PrimalItemResource_BioniceRexEssence.PrimalItemResource_BioniceRexEssence'",
+            "Blueprint'/ArkDescended/Items/Essence/AncientEssence/PrimalItemResource_AncientEssence.PrimalItemResource_AncientEssence'",
+            "Blueprint'/ArkDescended/Items/Essence/BionicEssence/PrimalItemResource_BionicEssence.PrimalItemResource_BionicEssence'",
+            "Blueprint'/ArkDescended/Items/Essence/BossEssence/PrimalItemResource_BossEssence.PrimalItemResource_BossEssence'",
+            "Blueprint'/ArkDescended/Items/Essence/DescendedEssence/PrimalItemResource_DescendedEssence.PrimalItemResource_DescendedEssence'",
+            "Blueprint'/ArkDescended/Items/Essence/GalaxyEssence/PrimalItemResource_GalaxyEssence.PrimalItemResource_GalaxyEssence'",
+            "Blueprint'/ArkDescended/Items/Essence/UnrealEssence/PrimalItemResource_UnrealEssence.PrimalItemResource_UnrealEssence'",
+            "Blueprint'/ArkDescended/Items/Resource/Hide/PrimalItemResource_Hide_Devil.PrimalItemResource_Hide_Devil'",
+            "Blueprint'/ArkDescended/Items/Resource/Hide/PrimalItemResource_Hide_Divine.PrimalItemResource_Hide_Divine'",
+            "Blueprint'/ArkDescended/Items/Soul/Bionic/PrimalItemResource_BionicSoul.PrimalItemResource_BionicSoul'",
+            "Blueprint'/ArkDescended/Items/Soul/Excellent/PrimalItemResource_ExcellentSoul.PrimalItemResource_ExcellentSoul'",
+            "Blueprint'/ArkDescended/Items/Soul/Tier3/PrimalItemResource_DivineSoul.PrimalItemResource_DivineSoul'",
+            "Blueprint'/ArkDescended/Items/Soul/Tier3/PrimalItemResource_DevilishSoul.PrimalItemResource_DevilishSoul'",
+            "Blueprint'/ArkDescended/Items/Soul/Specail/poisonsoul/PrimalItemResource_PoisonDrakeSoul.PrimalItemResource_PoisonDrakeSoul'",
+            "Blueprint'/ArkDescended/Items/Soul/Tier4energy/PrimalItemResource_CelestialEnergy.PrimalItemResource_CelestialEnergy'",
+            "Blueprint'/ArkDescended/Items/Soul/Tier4energy/PrimalItemResource_AbyssalEnergy.PrimalItemResource_AbyssalEnergy'",
+            "Blueprint'/ArkDescended/Items/Summon/GodKey/Celestial/PrimalItemResource_CelestialGodKey.PrimalItemResource_CelestialGodKey'",
+            "Blueprint'/ArkDescended/Items/Summon/GodKey/Abyssal/PrimalItemResource_AbyssalGodKey.PrimalItemResource_AbyssalGodKey'",
+            "Blueprint'/ArkDescended/Items/AncientToken/PrimalItemResource_BrontoAncientToken.PrimalItemResource_BrontoAncientToken'",
+            "Blueprint'/ArkDescended/Items/AncientToken/PrimalItemResource_CarnoAncientToken.PrimalItemResource_CarnoAncientToken'",
+            "Blueprint'/ArkDescended/Items/AncientToken/PrimalItemResource_GigantAncientToken.PrimalItemResource_GigantAncientToken'",
+            "Blueprint'/ArkDescended/Items/AncientToken/PrimalItemResource_QuetzAncientToken.PrimalItemResource_QuetzAncientToken'",
+            "Blueprint'/ArkDescended/Items/AncientToken/PrimalItemResource_RaptorAncientToken.PrimalItemResource_RaptorAncientToken'",
+            "Blueprint'/ArkDescended/Items/AncientToken/PrimalItemResource_RexAncientToken.PrimalItemResource_RexAncientToken'",
+            "Blueprint'/ArkDescended/Items/AncientToken/PrimalItemResource_StegoAncientToken.PrimalItemResource_StegoAncientToken'",
+            "Blueprint'/ArkDescended/Items/AncientToken/PrimalItemResource_TrikeAncientToken.PrimalItemResource_TrikeAncientToken'",
+            "Blueprint'/ArkDescended/Items/AncientToken/AncientTokencluster/PrimalItemResource_AncientTokenCluster.PrimalItemResource_AncientTokenCluster'"
+          ],
+          "alternateItems": [],
+          "alternateItemChance": 0.0
+        }
+      ]
+    }
+  ]
+}
